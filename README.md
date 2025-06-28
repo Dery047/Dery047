@@ -1,17 +1,17 @@
-![](https://komarev.com/ghpvc/?username=TU_USUARIO)
+### 👋 Hi there, I'm Santiago Vergara
 
-### Hi there 👋 I'm Santiago Vergara
+🎓 I'm a 4th-year Software Engineering student based in Colombia.  
+💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
+🛠️ My main stack is Python with Django and Django REST Framework, and I’m focused on building scalable and secure APIs.
 
-🎓 I'm a 4th-year Software Engineering student based in Colombia
-🧠 I’m passionate about backend development and solving real-world problems with clean, scalable code.  
-🚀 Currently working on several backend-focused web applications using Django, DRF, and using relational Databases, like SQL Server
+🧠 Before diving into full backend development, I focused on mastering core CS concepts like programming logic, SQL, and data handling — which allows me to write cleaner, more efficient backend code.
 
-- ⚡ I enjoy coding late at night when everything is quiet — it's when I find my best focus and flow.
-- 💻 Currently learning:
-  - Django REST Framework (advanced)
-  - React basics (to complement backend)
-- 🧩 Interests: Backend architecture, REST APIs, databases, version control, and web performance.
-- 💬 Talk to me about Python, software architecture, RDR2, or House of the Dragon 👑🔥
+⚙️ I’m also familiar with tools and workflows like Git, Postman, and GitHub for version control and testing.  
+🌐 I’m exploring frontend tech like React.js to complement my backend projects and better understand full-stack architecture.
+
+⚡ I enjoy coding late at night when everything is quiet — it's when I find my best focus and flow.  
+🔥 I'm passionate about building practical solutions that solve real-world problems and learning from every challenge.
+
 
 ---
 
@@ -44,10 +44,12 @@
 
 ## 📂 Featured Projects
 
-- 🔐 [Task Manager API](https://github.com/TU_USUARIO/task-manager) – CRUD tasks with JWT auth and React frontend
-- 🅿️ [Parking Lot System](https://github.com/TU_USUARIO/parking-lot) – API system to manage parking slots and vehicles
-- 🏗️ [Machinery CRUD](https://github.com/TU_USUARIO/machinery-crud) – Admin dashboard for heavy machinery
-- ✈️ [Flight & Hotel Booking System](https://github.com/TU_USUARIO/booking-system) – Ongoing project with full backend logic
+- 🔐 [Task Manager API](https://github.com/Dery047/user_registration_Api) – REST API for user registration and login with JWT authentication. Built with Django REST Framework.
+- 🅿️ [Parking Lot API](https://github.com/Dery047/Parking-API) – Django REST API for managing vehicle entries and exits in a parking lot. Includes endpoints for slot assignment and history tracking.
+- 🧾 [To-Do List](https://github.com/Dery047/To_Do_listAPI) – Task manager with JWT auth (register/login) and a basic React.js frontend. Implements full CRUD for tasks.
+- 🏗️ [Machinery CRUD](https://github.com/Dery047/CRUD-Maquinaria_pesada) – In-progress system for managing heavy machinery and industrial vehicles. Built with Django and SQLite.
+- ✈️ [Flight & Hotel Booking System](https://github.com/Dery047/Hotels_Reservation) – Ongoing project using Django and JWT auth to allow hotel and flight booking via REST API.
+
 
 ---
 
