@@ -54,10 +54,10 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dery047&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/Dery047/Dery047/raw/output/github-contribution-grid-snake.svg" alt="Contributions" />
 </p>
 
 ## 📫 Connect with Me
