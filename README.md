@@ -45,7 +45,7 @@
 
 ## 📂 Featured Projects
 
-- 🔐 [Task Manager API](https://github.com/Dery047/user_registration_Api) – REST API for user registration and login with JWT authentication. Built with Django REST Framework.
+- 🔐 [User Login/Register API](https://github.com/Dery047/user_registration_Api) – REST API for user registration and login with JWT authentication. Built with Django REST Framework.
 - 🅿️ [Parking Lot API](https://github.com/Dery047/Parking-API) – Django REST API for managing vehicle entries and exits in a parking lot. Includes endpoints for slot assignment and history tracking.
 - 🧾 [To-Do List](https://github.com/Dery047/To_Do_listAPI) – Task manager with JWT auth (register/login) and a basic React.js frontend. Implements full CRUD for tasks.
 - 🏗️ [Machinery CRUD](https://github.com/Dery047/CRUD-Maquinaria_pesada) – In-progress system for managing heavy machinery and industrial vehicles. Built with Django and SQLite.
