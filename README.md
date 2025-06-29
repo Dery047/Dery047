@@ -54,6 +54,21 @@
 
 ---
 
+## 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dery047&show_icons=true&theme=radical" alt="Santiago's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dery047&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dery047&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ## 📫 Connect with Me
 
 <p align="center">
