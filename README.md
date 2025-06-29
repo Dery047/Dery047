@@ -57,8 +57,9 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/Dery047/Dery047/raw/output/github-contribution-grid-snake.svg" alt="Contributions" />
+  <img src="https://ghchart.rshah.org/Dery047" alt="GitHub Contributions" />
 </p>
+
 
 ## 📫 Connect with Me
 
