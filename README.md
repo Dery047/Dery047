@@ -54,13 +54,6 @@
 
 ---
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Dery047" alt="GitHub Contributions" />
-</p>
-
-
 ## 📫 Connect with Me
 
 <p align="center">
