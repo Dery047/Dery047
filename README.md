@@ -4,8 +4,7 @@
 💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
 🛠️ My main stack is Python with Django and Django REST Framework, and I’m focused on building scalable and secure APIs.
 
-🧠 Before diving into full backend development, I focused on mastering core CS concepts like programming logic, SQL, and data handling — which allows me to write cleaner, more efficient backend code.
-
+🧠 Before fully diving into backend development, I dedicated the early years of my Software Engineering degree to mastering core computer science fundamentals — including programming logic, SQL, and data handling. This strong foundation now allows me to write cleaner, more efficient, and scalable backend code.
 ⚙️ I’m also familiar with tools and workflows like Git, Postman, and GitHub for version control and testing.  
 🌐 I’m exploring frontend tech like React.js to complement my backend projects and better understand full-stack architecture.
 
