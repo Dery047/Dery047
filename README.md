@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Santiago Vergara (Versión en español después de >Credits>
+### 👋 Hi there, I'm Santiago Vergara (Versión en español después de >Credits>)
 
 🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
 💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
