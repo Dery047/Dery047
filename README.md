@@ -72,3 +72,51 @@
 This profile README was inspired by a template created by [Durgesh Samariya](https://github.com/durgeshsamariya).  
 Adapted and customized by me for personal use.
 
+Version en Español: 
+
+👋 Hola, soy Santiago Vergara  
+🎓 Soy estudiante de cuarto año de Ingeniería de Software, con base en Medellín, Colombia.  
+💻 Me especializo en desarrollo backend, con bases sólidas en programación orientada a objetos, estructuras de datos y bases de datos relacionales.  
+🛠️ Mi stack principal es Python con Django y Django REST Framework, y estoy enfocado en construir APIs escalables y seguras.
+
+🧠 Antes de enfocarme completamente en el desarrollo backend, dediqué los primeros años de mi carrera en Ingeniería de Software a dominar los fundamentos de la informática: lógica de programación, SQL y manejo de datos. Esta base sólida me permite hoy escribir código backend más limpio, eficiente y escalable. ⚙️ También estoy familiarizado con herramientas y flujos de trabajo como Git, Postman y GitHub para control de versiones y pruebas.  
+🌐 Actualmente estoy explorando tecnologías frontend como React.js para complementar mis proyectos backend y entender mejor la arquitectura full-stack.
+
+⚡ Me encanta programar en las noches cuando todo está en silencio — es cuando logro mi mejor enfoque y flujo de trabajo.  
+🔥 Me apasiona crear soluciones prácticas que resuelvan problemas del mundo real y aprender de cada desafío.
+
+---
+
+🛠️ **Stack Tecnológico**  
+🧑‍💻 **Lenguajes**  
+
+**Frameworks y Herramientas**  
+
+**Bases de Datos**
+
+---
+
+📂 **Proyectos Destacados**  
+🔐 **API de Registro/Login de Usuarios** – API REST para registro e inicio de sesión de usuarios con autenticación JWT. Construida con Django REST Framework.  
+🅿️ **API de Parqueadero** – API REST en Django para gestionar entradas y salidas de vehículos en un parqueadero. Incluye asignación de espacios y registro histórico.  
+🧾 **Lista de Tareas** – Gestor de tareas con autenticación JWT (registro/login) y frontend básico en React.js. Implementa CRUD completo para tareas.  
+🏗️ **CRUD de Maquinaria** – Sistema en desarrollo para la gestión de maquinaria pesada y vehículos industriales. Construido con Django y SQLite.  
+✈️ **Sistema de Reservas de Vuelos y Hoteles** – Proyecto en curso usando Django y JWT para permitir reservas mediante API REST.
+
+---
+
+📫 **Conecta conmigo**  
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/santiago-vergara-791b04172/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="mailto:vergarasantiago049@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p> 
+
+💚💙 Orgulloso fan de los Seahawks — ganen o pierdan, siempre en el barco.
+
+---
+
+📝 **Créditos**  
+Este perfil README fue inspirado en una plantilla creada por **Durgesh Samariya**.  
+Adaptado y personalizado por mí para uso personal.
+
+
