@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Santiago Vergara
 
-🎓 I'm a 4th-year Software Engineering student based in Colombia.  
+🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
 💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
 🛠️ My main stack is Python with Django and Django REST Framework, and I’m focused on building scalable and secure APIs.
 
@@ -62,7 +62,7 @@
 
 ---
 
-💚💙 Proud Seahawks fan and 12th Man — win or lose, always on the boat.
+💚💙 Proud Seahawks 12th man — win or lose, always on the boat.
 
 
 ---
