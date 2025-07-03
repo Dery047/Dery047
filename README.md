@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Santiago Vergara (Version en español después de >Credits>
+### 👋 Hi there, I'm Santiago Vergara (Versión en español después de >Credits>
 
 🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
 💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
@@ -72,7 +72,7 @@
 This profile README was inspired by a template created by [Durgesh Samariya](https://github.com/durgeshsamariya).  
 Adapted and customized by me for personal use.
 
-Version en español: 
+Versión en español: 
 
 ### 👋 Hola, soy Santiago Vergara
 
@@ -136,7 +136,7 @@ Version en español:
 
 ---
 
-💚💙 Orgulloso fan de los Seahawks — gane o pierda, siempre en el barco.
+💚💙 Orgulloso fan de los Seahawks — ganen o pierdan, siempre en el barco.
 
 ---
 
