@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Santiago Vergara 
 > 📌 Versión en Español disponible después de la sección 📝 *Credits*
-
+⚠️ I haven’t been able to give these projects much attention lately since I’ve been focused on other challenges and projects with Outlier.
+Thanks for your patience —I’ll be back to them as soon as things settle down, bringing new experience with me 🙌😊
 
 🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
 💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
@@ -77,6 +78,8 @@ Adapted and customized by me for personal use.
 Versión en español: 
 
 ### 👋 Hola, soy Santiago Vergara
+⚠️ No he podido dedicarle tiempo a estos proyectos últimamente porque he estado enfocado en otros retos y proyectos con Outlier.
+Agradezco la paciencia —volveré a ellos cuando el ritmo lo permita, con más aprendizaje encima 🙌😊
 
 🎓 Soy estudiante de cuarto año de Ingeniería de Software, con base en Medellín, Colombia.  
 💻 Me especializo en desarrollo backend, con bases sólidas en programación orientada a objetos, estructuras de datos y bases de datos relacionales.  
