@@ -1,5 +1,6 @@
 ### 👋 Hi there, I'm Santiago Vergara 
 > 📌 Versión en Español disponible después de la sección 📝 *Credits*
+
 ⚠️ I haven’t been able to give these projects much attention lately since I’ve been focused on other challenges and projects with Outlier.
 Thanks for your patience —I’ll be back to them as soon as things settle down, bringing new experience with me 🙌😊
 
