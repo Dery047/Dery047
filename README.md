@@ -3,6 +3,7 @@
 
 ⚠️ I haven’t been able to give these projects much attention lately since I’ve been focused on other challenges and projects with Outlier.
 Thanks for your patience —I’ll be back to them as soon as things settle down, bringing new experience with me 🙌😊
+💻 Freelance contributor at Outlier AI, helping train large language models through real-world tasks such as code evaluation, prompt design, and debugging of AI-generated code. Focused on improving generative AI coding capabilities.
 
 🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
 💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
