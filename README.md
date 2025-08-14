@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Santiago Vergara 
 > 📌 Versión en Español disponible después de la sección 📝 *Credits*
 
-⚠️ Hey there! I’ll be retaking the project I’ve been building soon. In the meantime, I’ve learned a lot from what I’m currently working on, and I’m sure it’ll give me more experience and better tools to face new challenges. Thank you! 😉
+⚠️ Hey there! I’ll be retaking the projects I’ve been building soon. In the meantime, I’ve learned a lot from what I’m currently working on, and I’m sure it’ll give me more experience and better tools to face new challenges. Thank you! 😉
+
 I haven’t been able to give these projects much attention lately since I’ve been focused on other challenges and projects with Outlier.
 Thanks for your patience —I’ll be back to them as soon as things settle down, bringing new experience with me 🙌😊
 
