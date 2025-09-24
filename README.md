@@ -1,11 +1,6 @@
 ### 👋 Hi there, I'm Santiago Vergara 
 > 📌 Versión en Español disponible después de la sección 📝 *Credits*
 
-⚠️ Hey there! I’ll be retaking the projects I’ve been building soon and bring in new ones. In the meantime, I’ve learned a lot from what I’m currently working on, and I’m sure it’ll give me more experience and better tools to face new challenges. Thank you! 😉
-
-I haven’t been able to give these projects much attention lately since I’ve been focused on other challenges and projects with Outlier.
-Thanks for your patience —I’ll be back to them as soon as things settle down, bringing new experience with me 🙌😊
-
 💻 Freelance contributor at Outlier AI, helping train large language models through real-world tasks such as code evaluation, prompt design, and debugging of AI-generated code. Focused on improving generative AI coding capabilities.
 
 🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
@@ -84,10 +79,6 @@ Versión en español:
 
 ### 👋 Hola, soy Santiago Vergara
 
-¡Hola! Pronto volveré a retomar los proyectos que he estado construyendo y construir también algunos nuevos para seguir con mi enfoque en el desarrollo de backend. Mientras tanto, he aprendido mucho con lo que estoy haciendo actualmente, y estoy seguro de que eso me dará más experiencia y herramientas para enfrentar nuevos desafíos. ¡Gracias! 😉
-
-⚠️ No he podido dedicarle tiempo a estos proyectos últimamente porque he estado enfocado en otros retos y proyectos con Outlier.
-Agradezco la paciencia —volveré a ellos cuando el ritmo lo permita, con más aprendizaje encima 🙌😊
 
 🎓 Soy estudiante de cuarto año de Ingeniería de Software, con base en Medellín, Colombia.  
 💻 Me especializo en desarrollo backend, con bases sólidas en programación orientada a objetos, estructuras de datos y bases de datos relacionales.  
