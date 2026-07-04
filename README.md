@@ -5,13 +5,13 @@ I am a senior-year Software Engineering student based in Medellín, Colombia, sp
 My main stack is **Java with frameworks based on Springboot and Python with Django and Django REST Framework**, and I’m focused on building scalable and secure APIs.
 
 #### 💼 Experience
-*   **Accenture** – Backend Developer: Gained hands-on enterprise experience deploying robust, real-world solutions using **Java** and **based springboot framework** for a banking client. Worked within high-performance workflows, participating in ecosystem development, agile methodologies, and scalable codebase maintenance.
+*   **Accenture** - Backend Developer (Banking Sector): Deploying robust, real-world solutions within the banking industry core systems. Working with **Java (Spring Boot / APX Architecture)** and **Python** to build and optimize scalable services, handle complex business logic, and participate in high-performance agile workflows.
 *   **Outlier AI** – AI Trainer & Code Evaluator (Freelance): Trained large language models (LLMs) through code evaluation, prompt engineering, and advanced debugging of AI-generated code.
 
 #### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, Java, SQL
-*   **Frameworks & Libraries:** Django, Django REST Framework (DRF)
-*   **Tools & Workflows:** Git, GitHub, Postman, Relational Databases
+*   **Frameworks & Libraries:** Springboot, Django, Django REST Framework (DRF)
+*   **Tools & Workflows:** Git, GitHub, Postman, Relational Databases, Jira.
 
 *Currently exploring **React.js** to complement my backend projects and better understand end-to-end full-stack architecture.*
 
