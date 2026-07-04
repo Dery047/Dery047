@@ -1,19 +1,22 @@
 ### 👋 Hi there, I'm Santiago Vergara 
-> 📌 Versión en Español disponible después de la sección 📝 *Credits*
 
-💻 Freelance contributor at Outlier AI, helping train large language models through real-world tasks such as code evaluation, prompt design, and debugging of AI-generated code. Focused on improving generative AI coding capabilities.
+I am a senior-year Software Engineering student based in Medellín, Colombia, specializing in **Backend Development**. I focus on building scalable, clean, and secure architectures, with solid foundations in object-oriented programming, data structures, and relational databases.
 
-🎓 I'm a 4th-year Software Engineering student based in Medellín, Colombia.  
-💻 I specialize in backend development, with strong foundations in object-oriented programming, data structures, and relational databases.  
-🛠️ My main stack is Python with Django and Django REST Framework, and I’m focused on building scalable and secure APIs.
+My main stack is **Java with frameworks based on Springboot and Python with Django and Django REST Framework**, and I’m focused on building scalable and secure APIs.
 
-🧠 Before fully diving into backend development, I dedicated the early years of my Software Engineering degree to mastering core computer science fundamentals — including programming logic, SQL, and data handling. This strong foundation now allows me to write cleaner, more efficient, and scalable backend code.
-⚙️ I’m also familiar with tools and workflows like Git, Postman, and GitHub for version control and testing.  
-🌐 I’m exploring frontend tech like React.js to complement my backend projects and better understand full-stack architecture.
+#### 💼 Experience
+*   **Accenture** – Backend Developer: Gained hands-on enterprise experience deploying robust, real-world solutions using **Java** and **based springboot framework** for a banking client. Worked within high-performance workflows, participating in ecosystem development, agile methodologies, and scalable codebase maintenance.
+*   **Outlier AI** – AI Trainer & Code Evaluator (Freelance): Trained large language models (LLMs) through code evaluation, prompt engineering, and advanced debugging of AI-generated code.
 
-⚡ I enjoy coding late at night when everything is quiet — it's when I find my best focus and flow.  
-🔥 I'm passionate about building practical solutions that solve real-world problems and learning from every challenge.
+#### 🛠️ Tech Stack & Tools
+*   **Languages:** Python, Java, SQL
+*   **Frameworks & Libraries:** Django, Django REST Framework (DRF)
+*   **Tools & Workflows:** Git, GitHub, Postman, Relational Databases
 
+*Currently exploring **React.js** to complement my backend projects and better understand end-to-end full-stack architecture.*
+
+---
+💬 I enjoy coding late at night when everything is quiet—it's when I find my best focus and flow. I'm passionate about building practical solutions that solve real-world problems and learning from every challenge.
 
 ---
 
