@@ -24,6 +24,7 @@ My main stack is **Java with frameworks based on Springboot and Python with Djan
 
 ### 🧑‍💻 Languages
 <span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -31,11 +32,13 @@ My main stack is **Java with frameworks based on Springboot and Python with Djan
 
 ### Frameworks & Tools
 <span>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Django%20REST-FF1709?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
@@ -83,16 +86,23 @@ Versión en español:
 ### 👋 Hola, soy Santiago Vergara
 
 
-🎓 Soy estudiante de cuarto año de Ingeniería de Software, con base en Medellín, Colombia.  
-💻 Me especializo en desarrollo backend, con bases sólidas en programación orientada a objetos, estructuras de datos y bases de datos relacionales.  
-🛠️ Mi stack principal es Python con Django y Django REST Framework, y estoy enfocado en construir APIs escalables y seguras.
+Soy estudiante de último año de Ingeniería de Software en Medellín, Colombia, especializado en **Desarrollo Backend**. Me enfoco en la construcción de arquitecturas escalables, limpias y seguras, con bases sólidas en programación orientada a objetos, estructuras de datos y bases de datos relacionales.
 
-🧠 Antes de enfocarme completamente en el desarrollo backend, dediqué los primeros años de mi carrera a dominar los fundamentos de la informática — incluyendo lógica de programación, SQL y manejo de datos. Esta base sólida me permite hoy escribir código backend más limpio, eficiente y escalable.  
-⚙️ También estoy familiarizado con herramientas y flujos de trabajo como Git, Postman y GitHub para control de versiones y pruebas.  
-🌐 Estoy explorando tecnologías frontend como React.js para complementar mis proyectos backend y entender mejor la arquitectura full-stack.
+Mi stack principal es **Django con Springboot, Python con Django y Django REST Framework**.
 
-⚡ Me gusta programar tarde en la noche cuando todo está en silencio — es cuando encuentro mi mejor concentración y flujo.  
-🔥 Me apasiona crear soluciones prácticas que resuelvan problemas reales y aprender de cada desafío.
+#### 💼 Experiencia
+*   **Accenture** – Desarrollador Backend (Sector Bancario): Despliegue de soluciones robustas en el mundo real para los sistemas centrales del sector asegurador. Uso de **Java (Framework basado en Spring Boot )** y **Python** para construir y optimizar servicios escalables, procesar lógica de negocio compleja y participar en flujos de trabajo ágiles de alto rendimiento.
+*   **Outlier AI** – Entrenador de IA y Evaluador de Código (Freelance): Entrenamiento de modelos de lenguaje a gran escala (LLMs) mediante evaluación de código, diseño de prompts y depuración avanzada de software.
+
+#### 🛠️ Tecnologías y Herramientas
+*   **Lenguajes:** Python, Java, SQL
+*   **Frameworks y Arquitectura:** Django, Django REST Framework (DRF), Spring Boot, APX
+*   **Herramientas y Flujos:** Git, GitHub, Postman, Bases de Datos Relacionales
+
+*Actualmente explorando **React.js** para complementar mis proyectos backend y comprender mejor la arquitectura full-stack de extremo a extremo.*
+
+---
+💬 Disfruto programar tarde en la noche cuando todo está en silencio; es cuando encuentro mi mejor enfoque y ritmo de trabajo. Me apasiona construir soluciones prácticas que resuelvan problemas reales y aprender de cada desafío.
 
 ---
 
@@ -108,11 +118,13 @@ Versión en español:
 
 ### Frameworks & Herramientas
 <span>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Django%20REST-FF1709?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
